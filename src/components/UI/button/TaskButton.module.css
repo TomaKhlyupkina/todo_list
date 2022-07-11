@@ -1,0 +1,8 @@
+.taskBtn {
+    padding: 5px 8px;
+    margin: 10px 10px 10px 0;
+    color: grey;
+    background: transparent;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
